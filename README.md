@@ -1,2 +1,2 @@
 # myrepo
-My New Repository
+This is a demo repository for the Software Engineering Course
